@@ -1473,6 +1473,10 @@ $baseurl: '{{ site.baseurl }}/images';
 				@include vendor('pointer-events', 'none');
 				opacity: 0;
 			}
+			
+			li{
+				font-size: 0;
+			}
 		}
 	}
 
