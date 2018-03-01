@@ -177,6 +177,7 @@ img::-moz-selection {
     /* height:100px; /* new */
     background-image:url(../img/logos/farmingdatalogo-icon-biggest.png); /* new */
     background-repeat:no-repeat;  /* new */
+    height: 70px;
   }
   #mainNav .navbar-brand-name h1 {
     font-size: 1.75em;
