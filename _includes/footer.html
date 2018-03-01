@@ -1,28 +1,44 @@
 <!-- Footer -->
-<footer id="footer">
-  <a href="#" class="button fixed">WORK WITH US</a>
-  <ul class="icons">
-    {% for socloc in site.social %}
-    {% if socloc[1] %}
-    {% if socloc[0] == 'email' %}
-    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
-           ><span class="label">E-mail</span></a></li>
-    {% else %}
-    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
-           ><span class="label">{{ socloc[0] }}</span></a></li>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-  </ul>
-  <ul class="copyright">
-    <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
-    {% if site.first_published %}
-      {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
-      {% if diff contains '-' %}{{ site.first_published }},{% endif %}
-    {% endif %}
-    {{ thisyear }}
-    {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li>
-    <li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
-    <li>Built with: <a href="http://jekyllrb.com" target="_blank">Jekyll</a></li>
-  </ul>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <span class="copyright">“Farming Data” and the logo are trademarks of Farming Data Limited. &copy; 2018 All rights reserved.</span>
+      </div>
+      <div class="col-lg-4">
+        <ul class="list-inline social-buttons">
+          <li class="list-inline-item">
+            <a href="https://twitter.com/farming_data">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://www.facebook.com/farmingdata.io/">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://www.youtube.com/channel/UCzTQ_AkJ0wG-IoOlP5eW5zQ">
+              <i class="fa fa-youtube-play"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://www.linkedin.com/company/farmingdata">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!--<div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="#">Privacy Policy</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#">Terms of Use</a>
+          </li>
+        </ul>
+      </div> -->
+    </div>
+  </div>
 </footer>
