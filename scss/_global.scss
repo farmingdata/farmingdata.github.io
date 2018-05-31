@@ -1,6 +1,7 @@
 // Global styling for this template
 body {
   overflow-x: hidden;
+  max-width: 100%;
   @include body-font;
 }
 
