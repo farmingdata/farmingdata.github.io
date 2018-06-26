@@ -58,6 +58,7 @@ section h3.section-subheading {
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
+  max-width: 100%;
 }
 
 .btn-xl {
@@ -119,6 +120,10 @@ img::-moz-selection {
 #mainNav {
   background-color: #f8f9fa;
   max-width: 100%;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  /*settings for dro shadow */
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
 }
 
 #mainNav .navbar-toggler {
