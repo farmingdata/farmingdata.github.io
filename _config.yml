@@ -3,7 +3,7 @@ email:             info@farmingdata.io
 description:       An agritech startup
 author:            Farming Data
 baseurl:           ""
-url:               ""
+url:               "//farmingdata.io"
 
 # Social Profiles
 twitter_username:  farming_data
