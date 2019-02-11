@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We're looking for Software Developers / Engineers to join our team!"
-subtitle: "London-Cambridge, UK / work remotely + regular travel to Colombia"
+subtitle: "London-Cambridge, UK / work remotely + regular travel to Colombia (April 2019)"
 date:   2019-02-11 04:30:00 -0500
 author: farmingdata
 categories: posts

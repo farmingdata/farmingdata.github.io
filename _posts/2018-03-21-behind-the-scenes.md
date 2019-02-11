@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Our new blog series: Behind the scenes"
-subtitle: "(April 2019)"
+subtitle: ""
 date:   2018-03-21 04:49:01 -0600
 author: jacqui_poon
 categories: posts
