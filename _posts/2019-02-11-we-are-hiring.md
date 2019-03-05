@@ -27,8 +27,8 @@ environment of being **evidence-based**, being **user-focused**, driving **healt
 ### What you'll do in your role
 
 * Work closely with our founders to define and iterate technical roadmaps and product designs
-* Build applications across an array of Android devices
-* Work with other developers and designers to create the best user experience
+* Build front-end Android applications, back-end development, and data analytics
+* Work with other developers and designers to create the best user experience (UI/UX)
 * Grow in your understanding of a variety of emerging technologies and methods
 * Connect regularly with team members (using remote video meeting tools)
 
@@ -36,7 +36,7 @@ environment of being **evidence-based**, being **user-focused**, driving **healt
 
 * Have 1+ year experience in software coding / computer science / engineering (whether from
 Bachelor’s degree, equivalent training, or work experience)
-* Have a good understanding of data structures, algorithms, and programming languages  
+* Have a good understanding of data structures (e.g. NoSQL), algorithms, and programming languages (e.g. python, java)  
 * Be familiar with the Android tool ecosystem (or be able to pick it up quickly!)  
 * Can bring new ideas to the table and help drive technical decisions  
 * Enjoy working with others in a flat organisation. Farming is a team effort after all!  
@@ -44,14 +44,18 @@ Bachelor’s degree, equivalent training, or work experience)
 
 ### This sounds like me!
 
-Hurray! **We’re excited to learn more about you.** Tell us about yourself and share what you’re
-passionate about on this Google Form <a href="https://docs.google.com/forms/d/e/1FAIpQLSew550ClYLd7xN3dN7OCPjZo5CrlCLMXR7KXB2sSE4sl1InQw/viewform" target="_blank"> <b>here</b> </a>. Don’t forget to attach a CV!  
+Hurray! **We’re excited to learn more about you.**  Tell us about yourself and share what you’re
+passionate about on the Google Form below. Don’t forget to attach a CV!  
+
+<div class="text-center">
+  <font color="white"><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="http://bit.ly/2E17Jcj" target="_blank">Apply now!</a></font>
+</div>
 
 ### Benefits and perks  
 
-* Regular travel to rural farming communities throughout Colombia. If you haven’t been to
+* Travel like a digital nomad. Regular travel to rural farming communities throughout Colombia. If you haven’t been to
 Colombia, you’re in for a treat! It’s a beautiful country. We pay for our team to travel and work alongside our partner organizations and farmers. They’re just as eager to meet you as we are.  
-* Opportunity of equity plan for employees  
+* Opportunity of equity plan for employees (up to 1.5%)  
 * Regular personal career development opportunities. We want you to grow as we grow.  
 
 *If you have any questions, drop us a message at* <mark>info@farmingdata.io</mark>
